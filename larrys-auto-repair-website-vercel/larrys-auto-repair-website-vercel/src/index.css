@@ -43,7 +43,7 @@ img {
 }
 
 .shell {
-  width: min(1150px, calc(100% - 44px));
+  width: min(1340px, calc(100% - 28px));
   margin-inline: auto;
 }
 
@@ -1047,7 +1047,7 @@ footer {
   }
 
   .shell {
-    width: min(100% - 32px, 1150px);
+    width: min(100% - 20px, 1340px);
   }
 
   .site-header {
